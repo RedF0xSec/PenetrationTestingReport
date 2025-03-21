@@ -6,7 +6,7 @@ This repository contains the detailed **Penetration Test Report** for the **Pene
 
 During the test, several critical vulnerabilities were discovered, including **Remote Code Execution**, **Token Impersonation**, and **Incorrect Permission Assignment for Critical Resources**. These issues allowed the tester to compromise internal systems and gain administrative access, highlighting the need for improved security measures.
 
-This test was conducted in collaboration with my team, and together, we simulated attacks to assess the security of the network and identify areas that require attention and remediation.
+This test was conducted in collaboration with my team, and together, we simulated attacks to assess the security of the network and identify areas that require attention and remediation. **The names of my team members have been omitted for privacy reasons, and all mentions within the report are pseudonyms.**
 
 ## Objective
 
@@ -65,5 +65,4 @@ The following tools were utilized during the penetration test:
 
 The test revealed significant vulnerabilities in the internal network, many of which could have been exploited by attackers to gain unauthorized access and control over the systems. Immediate attention and remediation of the identified issues are necessary to improve the security posture of the organization.
 
-This report reflects the collaborative efforts of **my team and I** in identifying and addressing key security flaws in the network infrastructure.
-
+This report reflects the collaborative efforts of **my team and I** in identifying and addressing key security flaws in the network infrastructure. **The names of my team members have been omitted for privacy reasons, and all mentions within the report are pseudonyms.**
